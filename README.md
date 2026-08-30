@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/sujalkathait93-lab/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/sujalkathait93-lab/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3536-maximum-product-of-two-digits](https://github.com/sujalkathait93-lab/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/sujalkathait93-lab/leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/sujalkathait93-lab/leetcode/tree/master/0226-invert-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/sujalkathait93-lab/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
