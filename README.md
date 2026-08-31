@@ -46,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/sujalkathait93-lab/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sujalkathait93-lab/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sujalkathait93-lab/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
